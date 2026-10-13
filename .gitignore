@@ -1,0 +1,15 @@
+# Instructor-only (model answers)
+Assignment1_MarkingGuide.md
+*MarkingGuide*
+
+# Personal lecture-note photos
+raw-notes/
+
+# Python / Jupyter
+.venv/
+__pycache__/
+*.py[oc]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
