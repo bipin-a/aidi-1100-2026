@@ -11,7 +11,7 @@
 
 2. **How This Assignment Works**:
    - Build the application yourself. There is no supplied code to fix.
-   - Run it locally and send requests to your endpoint using FastAPI's interactive documentation or another API client.
+   - Run it locally and send requests to your endpoint using FastAPI's interactive documentation at `/docs` (for example, `http://127.0.0.1:8000/docs` when your app runs on port `8000`) or another API client.
    - Use the same application for all three test cases. Change the request inputs, not the code between tests.
 
 3. **Recording Expectations**:
